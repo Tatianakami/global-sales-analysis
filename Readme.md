@@ -43,7 +43,7 @@ Dados fictícios de vendas globais
 Gráficos de colunas, linhas, pizza e segmentações dinâmicas
 
 
-![Dashboard de Vendas](/telamovel.jpg)
+![Dashboard de Vendas](/tela2.png)
 
 
 📁 Estrutura de Arquivos
